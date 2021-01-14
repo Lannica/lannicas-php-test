@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Вход в панель администратора"
+AuthUserFile C:/Server/data/htdocs/blog/admin/.htpasswd
+Require valid-user
